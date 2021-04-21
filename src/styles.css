@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.TSEmbed {
+  height: 600px;
+}
+
+.embedSpinner {
+  position: relative;
+  top: 300px;
+}
